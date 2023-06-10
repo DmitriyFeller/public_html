@@ -1,0 +1,21 @@
+Fault: 18-05-2023 20:46:07 - Ошибка в SQL запросе: DELETE catalog FROM catalog  WHERE catalog.id='1'  - 1451 Cannot delete or update a parent row: a foreign key constraint fails (`im`.`goods`, CONSTRAINT `goods_categories_id_fk` FOREIGN KEY (`parent_id`) REFERENCES `catalog` (`id`))
+file F:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line 43
+
+Fault: 20-05-2023 7:50:59 - Ошибка подключения к базе данных: 2002No connection could be made because the target machine actively refused it.
+
+file F:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line 21
+
+Fault: 22-05-2023 10:05:48 - Ошибка в SQL запросе: SELECT filters.*,goods_filters.* FROM filters LEFT JOIN goods_filters ON filters.id=goods_filters.filters_id WHERE filters.visible='1' AND goods_filters.goods_id= (SELECT goods.id FROM goods    )    - 1242 Subquery returns more than 1 row
+file F:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line 43
+
+Fault: 22-05-2023 10:06:46 - Ошибка в SQL запросе: SELECT filters.*,goods_filters.* FROM filters LEFT JOIN goods_filters ON filters.id=goods_filters.filters_id WHERE filters.visible IN ('1') AND goods_filters.goods_id= (SELECT goods.id FROM goods    )    - 1242 Subquery returns more than 1 row
+file F:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line 43
+
+Fault: 22-05-2023 10:07:12 - Ошибка в SQL запросе: SELECT filters.*,goods_filters.* FROM filters LEFT JOIN goods_filters ON filters.id=goods_filters.filters_id WHERE filters.visible='1' AND goods_filters.goods_id= (SELECT goods.id FROM goods    )    - 1242 Subquery returns more than 1 row
+file F:\OSPanel\domains\im.my\public_html\core\base\model\BaseModel.php
+In line 43
+

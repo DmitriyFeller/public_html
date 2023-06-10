@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Statistic">
+    <option name="excludedDirectories">
+      <list>
+        <option value="$PROJECT_DIR$/userfiles" />
+        <option value="$PROJECT_DIR$/verstka/assets/css" />
+        <option value="$PROJECT_DIR$/core/admin/view/css" />
+        <option value="$PROJECT_DIR$/core/plugins/shop" />
+        <option value="$PROJECT_DIR$/log" />
+        <option value="$PROJECT_DIR$/templates/default/assets" />
+      </list>
+    </option>
+  </component>
+</project>
