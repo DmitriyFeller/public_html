@@ -68,11 +68,8 @@ class Crypt
                     $counter += $progress;
 
                 }
-
             }else{
-
                 break;
-
             }
 
             $new_str .= substr($str, $i, 1);
@@ -87,7 +84,6 @@ class Crypt
         $new_str = substr($new_str, 0, $new_str_half) . $hmac . substr($new_str, $new_str_half);
 
         return base64_encode($new_str);
-
     }
 
     protected function cryptUnCombine($str, $ivlen){

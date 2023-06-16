@@ -103,56 +103,56 @@
 
                         <div class="offers__tabs_card swiper-slide">
                             <div class="offers__tabs_image">
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers1.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
-                                    <span>Смазка силиконовая SILICOT,</span>
-                                    универсальная с фторопластом 10г стик-пакет
+                                    <span>Звездная ночь,</span>
+                                    Винсент Ван Гог
                                     <div class="card-main-info__table">
 
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Бренд
+                                                Высота,см
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                ВМПАВТО
-                                            </div>
-                                        </div>
-
-                                        <div class="card-main-info__table-row">
-                                            <div class="card-main-info__table-item">
-                                                Вес
-                                            </div>
-                                            <div class="card-main-info__table-item">
-                                                0.1 кг
+                                                63
                                             </div>
                                         </div>
 
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Номинальный объем
+                                                Ширина,см
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                10 гр
-                                            </div>
-                                        </div>
-
-                                        <div class="card-main-info__table-row">
-                                            <div class="card-main-info__table-item">
-                                                Термостойкость
-                                            </div>
-                                            <div class="card-main-info__table-item">
-                                                от -50°C до +230°C
+                                                80
                                             </div>
                                         </div>
 
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Номинальный объем
+                                                Вес,гр
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                10 гр
+                                                120
+                                            </div>
+                                        </div>
+
+                                        <div class="card-main-info__table-row">
+                                            <div class="card-main-info__table-item">
+                                                Материал
+                                            </div>
+                                            <div class="card-main-info__table-item">
+                                                Арт-холст
+                                            </div>
+                                        </div>
+
+                                        <div class="card-main-info__table-row">
+                                            <div class="card-main-info__table-item">
+                                                Покрытие
+                                            </div>
+                                            <div class="card-main-info__table-item">
+                                                Фактурный гель
                                             </div>
                                         </div>
 
@@ -160,7 +160,7 @@
 
                                 </div>
                                 <div class="offers__tabs_price">
-                                    Цена: <span class="offers_old-price">84 руб.</span> <span class="offers_new-price">59 руб.</span>
+                                    Цена: <span class="offers_old-price">10554 руб.</span> <span class="offers_new-price">7800 руб.</span>
                                 </div>
                             </div>
                             <button class="offers__btn">купить сейчас</button>
@@ -173,61 +173,61 @@
 
                         <div class="offers__tabs_card swiper-slide">
                             <div class="offers__tabs_image">
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers2.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
-                                    <span>Смазка силиконовая SILICOT,</span>
-                                    универсальная с фторопластом 10г стик-пакет
+                                    <span>Буря на море,</span>
+                                    Иван Айвазовский
                                     <div class="card-main-info__table">
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Бренд
+                                                Высота,см
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                ВМПАВТО
-                                            </div>
-                                        </div>
-
-                                        <div class="card-main-info__table-row">
-                                            <div class="card-main-info__table-item">
-                                                Вес
-                                            </div>
-                                            <div class="card-main-info__table-item">
-                                                0.1 кг
+                                                50
                                             </div>
                                         </div>
 
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Номинальный объем
+                                                Ширина,см
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                10 гр
-                                            </div>
-                                        </div>
-
-                                        <div class="card-main-info__table-row">
-                                            <div class="card-main-info__table-item">
-                                                Термостойкость
-                                            </div>
-                                            <div class="card-main-info__table-item">
-                                                от -50°C до +230°C
+                                                39
                                             </div>
                                         </div>
 
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Номинальный объем
+                                                Вес,гр
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                10 гр
+                                                43
+                                            </div>
+                                        </div>
+
+                                        <div class="card-main-info__table-row">
+                                            <div class="card-main-info__table-item">
+                                                Материал
+                                            </div>
+                                            <div class="card-main-info__table-item">
+                                                Фотобумага
+                                            </div>
+                                        </div>
+
+                                        <div class="card-main-info__table-row">
+                                            <div class="card-main-info__table-item">
+                                                Покрытие
+                                            </div>
+                                            <div class="card-main-info__table-item">
+                                                Фактурный гель
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="offers__tabs_price">
-                                    Цена: <span class="offers_old-price">84 руб.</span> <span class="offers_new-price">59 руб.</span>
+                                    Цена: <span class="offers_old-price">1730 руб.</span> <span class="offers_new-price">805 руб.</span>
                                 </div>
                             </div>
                             <button class="offers__btn">купить сейчас</button>
@@ -240,61 +240,61 @@
 
                         <div class="offers__tabs_card swiper-slide">
                             <div class="offers__tabs_image">
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers3.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
-                                    <span>Смазка силиконовая SILICOT,</span>
-                                    универсальная с фторопластом 10г стик-пакет
+                                    <span>Тайная вечеря,</span>
+                                    Леонардо Да Винчи
                                     <div class="card-main-info__table">
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Бренд
+                                                Высота,см
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                ВМПАВТО
-                                            </div>
-                                        </div>
-
-                                        <div class="card-main-info__table-row">
-                                            <div class="card-main-info__table-item">
-                                                Вес
-                                            </div>
-                                            <div class="card-main-info__table-item">
-                                                0.1 кг
+                                                125
                                             </div>
                                         </div>
 
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Номинальный объем
+                                                Ширина,см
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                10 гр
-                                            </div>
-                                        </div>
-
-                                        <div class="card-main-info__table-row">
-                                            <div class="card-main-info__table-item">
-                                                Термостойкость
-                                            </div>
-                                            <div class="card-main-info__table-item">
-                                                от -50°C до +230°C
+                                                70
                                             </div>
                                         </div>
 
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Номинальный объем
+                                                Вес,гр
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                10 гр
+                                                50
+                                            </div>
+                                        </div>
+
+                                        <div class="card-main-info__table-row">
+                                            <div class="card-main-info__table-item">
+                                                Материал
+                                            </div>
+                                            <div class="card-main-info__table-item">
+                                                Холст
+                                            </div>
+                                        </div>
+
+                                        <div class="card-main-info__table-row">
+                                            <div class="card-main-info__table-item">
+                                                Покрытие
+                                            </div>
+                                            <div class="card-main-info__table-item">
+                                                Фактурный гель
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="offers__tabs_price">
-                                    Цена: <span class="offers_old-price">84 руб.</span> <span class="offers_new-price">59 руб.</span>
+                                    Цена: <span class="offers_old-price">9043 руб.</span> <span class="offers_new-price">4575 руб.</span>
                                 </div>
                             </div>
                             <button class="offers__btn">купить сейчас</button>
@@ -307,61 +307,61 @@
 
                         <div class="offers__tabs_card swiper-slide">
                             <div class="offers__tabs_image">
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers4.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
-                                    <span>Смазка силиконовая SILICOT,</span>
-                                    универсальная с фторопластом 10г стик-пакет
+                                    <span>Влюбленные,</span>
+                                    Рене Магритт
                                     <div class="card-main-info__table">
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Бренд
+                                                Высота, см
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                ВМПАВТО
-                                            </div>
-                                        </div>
-
-                                        <div class="card-main-info__table-row">
-                                            <div class="card-main-info__table-item">
-                                                Вес
-                                            </div>
-                                            <div class="card-main-info__table-item">
-                                                0.1 кг
+                                                70
                                             </div>
                                         </div>
 
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Номинальный объем
+                                                Ширина,см
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                10 гр
-                                            </div>
-                                        </div>
-
-                                        <div class="card-main-info__table-row">
-                                            <div class="card-main-info__table-item">
-                                                Термостойкость
-                                            </div>
-                                            <div class="card-main-info__table-item">
-                                                от -50°C до +230°C
+                                                95
                                             </div>
                                         </div>
 
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Номинальный объем
+                                                Вес,гр
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                10 гр
+                                                87
+                                            </div>
+                                        </div>
+
+                                        <div class="card-main-info__table-row">
+                                            <div class="card-main-info__table-item">
+                                                Материал
+                                            </div>
+                                            <div class="card-main-info__table-item">
+                                                Арт-холст
+                                            </div>
+                                        </div>
+
+                                        <div class="card-main-info__table-row">
+                                            <div class="card-main-info__table-item">
+                                                Покрытие
+                                            </div>
+                                            <div class="card-main-info__table-item">
+                                                Фактурный гель
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="offers__tabs_price">
-                                    Цена: <span class="offers_old-price">84 руб.</span> <span class="offers_new-price">59 руб.</span>
+                                    Цена: <span class="offers_old-price">12040 руб.</span> <span class="offers_new-price">9186 руб.</span>
                                 </div>
                             </div>
                             <button class="offers__btn">купить сейчас</button>
@@ -374,61 +374,61 @@
 
                         <div class="offers__tabs_card swiper-slide">
                             <div class="offers__tabs_image">
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers5.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
-                                    <span>Смазка силиконовая SILICOT,</span>
-                                    универсальная с фторопластом 10г стик-пакет
+                                    <span>Видение креста,</span>
+                                    Эдвин Фредерик Черч
                                     <div class="card-main-info__table">
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Бренд
+                                                Высота,см
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                ВМПАВТО
-                                            </div>
-                                        </div>
-
-                                        <div class="card-main-info__table-row">
-                                            <div class="card-main-info__table-item">
-                                                Вес
-                                            </div>
-                                            <div class="card-main-info__table-item">
-                                                0.1 кг
+                                                63
                                             </div>
                                         </div>
 
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Номинальный объем
+                                                Ширина,см
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                10 гр
-                                            </div>
-                                        </div>
-
-                                        <div class="card-main-info__table-row">
-                                            <div class="card-main-info__table-item">
-                                                Термостойкость
-                                            </div>
-                                            <div class="card-main-info__table-item">
-                                                от -50°C до +230°C
+                                                90
                                             </div>
                                         </div>
 
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Номинальный объем
+                                                Вес,гр
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                10 гр
+                                                75
+                                            </div>
+                                        </div>
+
+                                        <div class="card-main-info__table-row">
+                                            <div class="card-main-info__table-item">
+                                                Материал
+                                            </div>
+                                            <div class="card-main-info__table-item">
+                                                Арт-холст
+                                            </div>
+                                        </div>
+
+                                        <div class="card-main-info__table-row">
+                                            <div class="card-main-info__table-item">
+                                                Покрытие
+                                            </div>
+                                            <div class="card-main-info__table-item">
+                                                Нет
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="offers__tabs_price">
-                                    Цена: <span class="offers_old-price">84 руб.</span> <span class="offers_new-price">59 руб.</span>
+                                    Цена: <span class="offers_old-price">10034 руб.</span> <span class="offers_new-price">8679 руб.</span>
                                 </div>
                             </div>
                             <button class="offers__btn">купить сейчас</button>
@@ -451,7 +451,7 @@
                     <div class="offers__tabs_wrapper swiper-wrapper">
                         <div class="offers__tabs_card">
                             <div class="offers__tabs_image">
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
@@ -517,7 +517,7 @@
                         </div>
                         <div class="offers__tabs_card">
                             <div class="offers__tabs_image">
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
@@ -583,7 +583,7 @@
                         </div>
                         <div class="offers__tabs_card">
                             <div class="offers__tabs_image">
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
@@ -650,7 +650,7 @@
                         <div class="offers__tabs_card">
                             <div class="offers__tabs_image">
 
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
@@ -727,7 +727,7 @@
                         <div class="offers__tabs_card">
                             <div class="offers__tabs_image">
 
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
@@ -791,7 +791,7 @@
                         </div>
                         <div class="offers__tabs_card">
                             <div class="offers__tabs_image">
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
@@ -855,7 +855,7 @@
                         </div>
                         <div class="offers__tabs_card">
                             <div class="offers__tabs_image">
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
@@ -920,7 +920,7 @@
                         <div class="offers__tabs_card">
                             <div class="offers__tabs_image">
 
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
@@ -994,7 +994,7 @@
                     <div class="offers__tabs_wrapper swiper-wrapper">
                         <div class="offers__tabs_card">
                             <div class="offers__tabs_image">
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
@@ -1059,7 +1059,7 @@
                         <div class="offers__tabs_card">
                             <div class="offers__tabs_image">
 
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
@@ -1124,7 +1124,7 @@
                         <div class="offers__tabs_card">
                             <div class="offers__tabs_image">
 
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
@@ -1189,19 +1189,28 @@
                         <div class="offers__tabs_card">
                             <div class="offers__tabs_image">
 
-                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.png" alt="">
+                                <img src="<?=PATH . TEMPLATE?>assets/img/offers.jpg" alt="">
                             </div>
                             <div class="offers__tabs_description">
                                 <div class="offers__tabs_name">
-                                    <span>Смазка силиконовая SILICOT,</span>
-                                    универсальная с фторопластом 10г стик-пакет
+                                    <span>Репродукция Александра Кабанелла,</span>
+                                    размером 1200 на 800
                                     <div class="card-main-info__table">
                                         <div class="card-main-info__table-row">
                                             <div class="card-main-info__table-item">
-                                                Бренд
+                                                Высота
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                ВМПАВТО
+                                                1200
+                                            </div>
+                                        </div>
+
+                                        <div class="card-main-info__table-row">
+                                            <div class="card-main-info__table-item">
+                                                Ширина
+                                            </div>
+                                            <div class="card-main-info__table-item">
+                                                800
                                             </div>
                                         </div>
 
@@ -1210,16 +1219,7 @@
                                                 Вес
                                             </div>
                                             <div class="card-main-info__table-item">
-                                                0.1 кг
-                                            </div>
-                                        </div>
-
-                                        <div class="card-main-info__table-row">
-                                            <div class="card-main-info__table-item">
-                                                Номинальный объем
-                                            </div>
-                                            <div class="card-main-info__table-item">
-                                                10 гр
+                                                0,1 кг
                                             </div>
                                         </div>
 
@@ -1243,7 +1243,7 @@
                                     </div>
                                 </div>
                                 <div class="offers__tabs_price">
-                                    Цена: <span class="offers_old-price">84 руб.</span> <span class="offers_new-price">59 руб.</span>
+                                    Цена: <span class="offers_old-price">84 руб.</span> <span class="offers_new-price">1800 руб.</span>
                                 </div>
                             </div>
                             <button class="offers__btn">купить сейчас</button>
@@ -1274,8 +1274,8 @@
                 <div class="about__description">
                     <div class="about__description_name subheader">Интернет-магазин Живописи</div>
                     <div class="about__description_text">
-                        <p>начал свою работу в 1999 году. С самого начала главной целью было предложить нашим клиентам самый широкий спектр автомобильных запасных частей и аксессуаров, а развитие интернет–технологий дало возможность максимально упростить и ускорить процесс покупки.</p>
-                        <p>Компания быстро росла, и сегодня, занимая одну из ведущих позиции на этом рынке, мы не стоим на месте. В основе проекта АвтоЗапчасти : самые современные информационные технологии, собственные программные разработки, накопленная за годы работы аналитическая и статистическая информация по рынку, высококвалифицированный коллектив — мы делаем все для того, чтобы Вы были довольны нашей работой.</p>
+                        <p>начал свою работу в 1999 году. С самого начала главной целью было предложить нашим клиентам самый широкий выбор среди живописи, а развитие интернет–технологий дало возможность максимально упростить и ускорить процесс покупки.</p>
+                        <p>Компания быстро росла, и сегодня, занимая одну из ведущих позиции на этом рынке, не стоит на месте. В основе проекта Живопись : самые современные информационные технологии, собственные программные разработки, накопленная за годы работы аналитическая и статистическая информация по рынку, высококвалифицированный коллектив — мы делаем все для того, чтобы Вы были довольны нашей работой.</p>
                     </div>
                     <a href="index.html" class="about__description_readmore readmore">Читать подробнее</a>
                 </div>

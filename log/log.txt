@@ -3598,3 +3598,207 @@ Fault: 29-05-2023 18:43:24 - Не верное имя файла для подк
 file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
 In line 65
 
+Fault: 15-06-2023 12:21:55 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:22:34 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:23:34 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:24:34 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:27:29 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:27:51 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:28:05 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:28:50 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:29:32 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:30:29 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:35:26 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:37:38 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:40:22 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:40:35 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:42:02 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:42:36 - Не верное имя файла для подключения - core/user/controller/TemplatesController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:45:49 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:45:50 - Не верное имя файла для подключения - core/user/controller/TemplatesController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:45:57 - Не верное имя файла для подключения - core/user/controller/TemplatesController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:45:57 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:46:26 - Не верное имя файла для подключения - core/user/controller/TemplatesController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:46:26 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:46:32 - Не верное имя файла для подключения - core/user/controller/TemplatesController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:46:32 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:48:27 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:48:57 - Не верное имя файла для подключения - core/user/controller/TemplatesController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:49:38 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:49:39 - Не верное имя файла для подключения - core/user/controller/TemplatesController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:52:07 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:53:16 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:57:29 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:58:23 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 12:58:49 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:00:19 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:03:44 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:06:14 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:06:27 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:08:19 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:13:34 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:14:03 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:17:46 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:17:54 - Не верное имя файла для подключения - core/user/controller/AboutController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:17:55 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:17:57 - Не верное имя файла для подключения - core/user/controller/CatalogController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:17:58 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:21:44 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:21:52 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:22:39 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:24:45 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:35:32 - Не верное имя файла для подключения - core/user/controller/CatalogController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
+Fault: 15-06-2023 13:35:34 - Не верное имя файла для подключения - core/user/controller/AssetsController
+file F:\OSPanel\domains\im.my\public_html\core\base\settings\internal_settings.php
+In line 65
+
